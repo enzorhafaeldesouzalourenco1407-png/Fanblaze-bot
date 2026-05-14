@@ -1,4 +1,4 @@
-{
+l{
   "name": "AFK Bot",
   "bot-account": {
     "username": "FanblazeBot",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "FanblazeGo.aternos.me",
     "port": 64562,
-    "version": "",
+    "version": "26.20",
     "try-creative": false
   },
   "position": {
